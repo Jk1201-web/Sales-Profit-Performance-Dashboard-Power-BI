@@ -1,15 +1,16 @@
 # Sales Profit Performance Dashboard Power-BI
 ## Table content
-- ![Overview](https://github.com/Jk1201-web/Sales-Profit-Performance-Dashboard-Power-BI#overview)
-- ![Problem statement](https://github.com/Jk1201-web/Sales-Profit-Performance-Dashboard-Power-BI#problem-statement)
-- ![Dashboard Preview](https://github.com/Jk1201-web/Sales-Profit-Performance-Dashboard-Power-BI#dashboard-preview)
-- ![Key Metrics](https://github.com/Jk1201-web/Sales-Profit-Performance-Dashboard-Power-BI#key-metrics)
-- ![Impact Analysis](https://github.com/Jk1201-web/Sales-Profit-Performance-Dashboard-Power-BI#impact-analysis-key-highlight)
-- ![Key Insights](https://github.com/Jk1201-web/Sales-Profit-Performance-Dashboard-Power-BI#key-insights)
-- ![Business Recommendation](https://github.com/Jk1201-web/Sales-Profit-Performance-Dashboard-Power-BI#business-recommendations)
-- ![Tools & Technologies](https://github.com/Jk1201-web/Sales-Profit-Performance-Dashboard-Power-BI#tools--technologies0
-- ![Project Workflow](https://github.com/Jk1201-web/Sales-Profit-Performance-Dashboard-Power-BI#project-workflow)
-- ![Project Structure](https://github.com/Jk1201-web/Sales-Profit-Performance-Dashboard-Power-BI#project-structure)
+- [Overview](https://github.com/Jk1201-web/Sales-Profit-Performance-Dashboard-Power-BI#overview)
+- [Problem statement](https://github.com/Jk1201-web/Sales-Profit-Performance-Dashboard-Power-BI#problem-statement)
+- [Dashboard Preview](https://github.com/Jk1201-web/Sales-Profit-Performance-Dashboard-Power-BI#dashboard-preview)
+      - [Sales_performance_dashboard.png](Sales_performance_dashboard.png)
+- [Key Metrics](https://github.com/Jk1201-web/Sales-Profit-Performance-Dashboard-Power-BI#key-metrics)
+- [Impact Analysis](https://github.com/Jk1201-web/Sales-Profit-Performance-Dashboard-Power-BI#impact-analysis-key-highlight)
+- [Key Insights](https://github.com/Jk1201-web/Sales-Profit-Performance-Dashboard-Power-BI#key-insights)
+- [Business Recommendation](https://github.com/Jk1201-web/Sales-Profit-Performance-Dashboard-Power-BI#business-recommendations)
+- [Tools & Technologies](https://github.com/Jk1201-web/Sales-Profit-Performance-Dashboard-Power-BI#tools--technologies)
+- [Project Workflow](https://github.com/Jk1201-web/Sales-Profit-Performance-Dashboard-Power-BI#project-workflow)
+- [Project Structure](https://github.com/Jk1201-web/Sales-Profit-Performance-Dashboard-Power-BI#project-structure)
 ## Overview
 This project analyzes how discount strategies impact sales, profit, and overall business performance using Power BI. The goal is to identify an optimal pricing strategy that maximizes profitability.
 ## Problem Statement
